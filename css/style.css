@@ -12,19 +12,20 @@ header{
 
 #logo{
     background-color:yellow;
-    width:50%;
+    width:20%;
     height:auto;
     font-weight:bolder;
     color:black;
+    font-size:35px;
+    
 }
 
 .rightNav{
     width:50%;
-    background-color:pink;
     float:right;
+    word-spacing:24px;
 }
 
 .rightNav p{
     display:inline;
-    background-color:orange;
 }
