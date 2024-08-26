@@ -62,6 +62,9 @@ header{
     width:20%;
     height:700px;
     background-color:darkolivegreen;
+    position:relative;
+    left:200px;
+    top:200px;
 }
 
 #title{
@@ -70,16 +73,34 @@ header{
     background-color:hotpink;
 }
 
+#title h2{
+    font-size:60px;
+    font-weight:900;
+}
+
 #paragraph{
     width:100%;
     height:auto;
     background-color:gold;
+    margin:20px 0 20px 0;
+}
+
+#paragraph p{
+    font-size:21px;
+    font-weight:500;
 }
 
 #menuBut{
     width:100%;
     height:auto;
     background-color:rgb(50, 171, 205);
+}
+
+#menuBut a{
+    color:black;
+    text-decoration:none;
+    font-size:23px;
+    font-weight:500;
 }
 
 .material-symbols-outlined{
