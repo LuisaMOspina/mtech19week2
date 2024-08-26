@@ -1,7 +1,11 @@
 *{
     margin:0;
     font-family:"Poppins", sans-serif;
-    background-color:rgb(203, 202, 202);
+    background-color:rgba(203, 202, 202, 0);
+}
+
+body{
+    background-image:url(../images/background.webp);
 }
 
 header{
