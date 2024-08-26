@@ -57,3 +57,35 @@ header{
 .rightNav a:first-child{
     margin-left:190px;
 }
+
+.leftBod{
+    width:20%;
+    height:700px;
+    background-color:darkolivegreen;
+}
+
+#title{
+    width:100%;
+    height:auto;
+    background-color:hotpink;
+}
+
+#paragraph{
+    width:100%;
+    height:auto;
+    background-color:gold;
+}
+
+#menuBut{
+    width:100%;
+    height:auto;
+    background-color:rgb(50, 171, 205);
+}
+
+.material-symbols-outlined{
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
