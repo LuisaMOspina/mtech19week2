@@ -81,7 +81,7 @@ header{
 }
 
 #paragraph{
-    width:85%;
+    width:95%;
     height:auto;
     background-color:rgba(255, 217, 0, 0);
     margin:30px 0 30px 0;
@@ -120,7 +120,7 @@ header{
     width:60%;
     height:600px;
     position:absolute;
-    right:20px;
+    right:15px;
     top:299px;
 }
 
@@ -139,7 +139,7 @@ header{
     width:25%;
     height:600px;
     display:inline-block;
-    margin:0 10px 0 10px;
+    margin:0 15px 0 15px;
     background-image:url(../images/pasta.jpg);
     background-repeat:no-repeat;
     background-size:cover;
@@ -153,4 +153,25 @@ header{
     background-image:url(../images/shrimp.jpg);
     background-repeat:no-repeat;
     background-size:cover;
+}
+
+.imgCorner{
+    width:200px;
+    height:auto;
+    background-color:tomato;
+    text-align:right;
+}
+
+.white{
+    background-color:white;
+    width:auto;
+    height:auto;
+    padding:12px;
+}
+
+.green{
+    background-color:rgb(124, 183, 36);
+    width:90%;
+    height:auto;
+    padding:10px;
 }
