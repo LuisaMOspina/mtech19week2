@@ -158,20 +158,26 @@ header{
 .imgCorner{
     width:200px;
     height:auto;
-    background-color:tomato;
-    text-align:right;
+    background-color:rgba(255, 99, 71, 0);
+    font-weight:700;
+    font-size:16px;
+    float:right;
+    margin-top:508px;
 }
 
 .white{
     background-color:white;
-    width:auto;
+    width:100px;
     height:auto;
     padding:12px;
+    text-align:right;
+    margin-left:76px;
 }
 
 .green{
     background-color:rgb(124, 183, 36);
     width:90%;
     height:auto;
-    padding:10px;
+    padding:12px 8px 12px 12px;
+    text-align:right;
 }
