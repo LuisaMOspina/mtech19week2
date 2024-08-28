@@ -28,7 +28,7 @@ header{
     letter-spacing:2px;
     background-color:white;
     float:left;
-    margin:20px 0px 0px 100px;
+    margin:20px 0px 0px 200px;
 }
 
 #logo span{
@@ -73,8 +73,8 @@ header{
     background-color:rgba(255, 105, 180, 0);
 }
 
-#title h2{
-    font-size:60px;
+#title h1{
+    font-size:70px;
     font-weight:900;
     padding:5px;
     line-height:0.8;
@@ -88,7 +88,7 @@ header{
 }
 
 #paragraph p{
-    font-size:22px;
+    font-size:24px;
     font-weight:500;
     padding:5px;
 }
@@ -102,7 +102,7 @@ header{
 #menuBut a{
     color:black;
     text-decoration:none;
-    font-size:24px;
+    font-size:26px;
     font-weight:600;
     padding:5px;
 }
@@ -113,4 +113,35 @@ header{
   'wght' 400,
   'GRAD' 0,
   'opsz' 24
+}
+
+.rightBod{
+    background-color:rgba(255, 0, 0, 0);
+    width:60%;
+    height:500px;
+    position:absolute;
+    right:20px;
+    top:299px;
+}
+
+.breakfastImg{
+    background-color:darkorchid;
+    width:25%;
+    height:500px;
+    display:inline-block;
+}
+
+.lunchImg{
+    background-color: navy;
+    width:25%;
+    height:500px;
+    display:inline-block;
+    margin:0 10px 0 10px;
+}
+
+.dinnerImg{
+    background-color:mediumspringgreen;
+    width:25%;
+    height:500px;
+    display:inline-block;
 }
