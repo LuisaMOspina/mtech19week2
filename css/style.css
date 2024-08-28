@@ -118,7 +118,7 @@ header{
 .rightBod{
     background-color:rgba(255, 0, 0, 0);
     width:60%;
-    height:500px;
+    height:600px;
     position:absolute;
     right:20px;
     top:299px;
@@ -127,21 +127,30 @@ header{
 .breakfastImg{
     background-color:darkorchid;
     width:25%;
-    height:500px;
+    height:600px;
     display:inline-block;
+    background-image:url(../images/quinoa.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 .lunchImg{
     background-color: navy;
     width:25%;
-    height:500px;
+    height:600px;
     display:inline-block;
     margin:0 10px 0 10px;
+    background-image:url(../images/pasta.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
 
 .dinnerImg{
     background-color:mediumspringgreen;
     width:25%;
-    height:500px;
+    height:600px;
     display:inline-block;
+    background-image:url(../images/shrimp.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
 }
